@@ -100,8 +100,6 @@
 
 ## Credits: 
 
-Vong Chanvichet (NanoCode012)
-
 Github: https://github.com/NanoCode012/DistributedSetup
 
 ## References:

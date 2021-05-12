@@ -1,6 +1,6 @@
 # DistributedSetup
 
-This is my own documentation in setting up a distributed system for a PHP system.
+This is a documentation in setting up a distributed system for a PHP system.
 
 In each folder, there is a ReadMe with instructions on setting up each components.
 
